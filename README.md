@@ -6,3 +6,5 @@ In practice folder, there are 2 small projects: randomwalk and rolling dice to g
 In plot with CSV folder, there is a project to download weather infomation for certain place in CSV format, and then processing the data to plot line graphs.
 
 In plot with Json folder, there is a project to download earthquake information for certain place in Json format, and then processing the data and plot geo graphs.
+
+In plot with api folder, instead of downloading data to local, we request data by api call, then do processing and ploting.
